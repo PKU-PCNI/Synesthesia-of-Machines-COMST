@@ -6,6 +6,11 @@ X. Cheng et al., "Intelligent Multi-Modal Sensing-Communication Integration: Syn
 - Pytorch 2.0.0
 - NVIDIA GPU + CUDA
 
+### Inference command for Fig.10
+- Model weight: https://pan.baidu.com/s/1r9ERE35G4PcXWdZFuECVmg?pwd=i2kb) with the extraction code i2kb
+```
+python test_pl.py
+```
 
 ## Citation
 If you find this repo helpful, please cite our paper.
