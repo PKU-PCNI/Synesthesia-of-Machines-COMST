@@ -5,6 +5,7 @@ X. Cheng et al., "Intelligent Multi-Modal Sensing-Communication Integration: Syn
 - Python 3.9 (Recommend to use [Anaconda](https://www.anaconda.com/))
 - Pytorch 2.0.0
 - NVIDIA GPU + CUDA
+- MATLAB
 
 ### Code for Fig.10
 - Model weight: https://pan.baidu.com/s/1r9ERE35G4PcXWdZFuECVmg?pwd=i2kb) with the extraction code i2kb
@@ -12,10 +13,18 @@ X. Cheng et al., "Intelligent Multi-Modal Sensing-Communication Integration: Syn
 python test_pl.py
 ```
 
+### Code for Fig.14
+```
+Run BER_SIMOFDM.m in MATLAB
+Run RMSE_waveform.m in MATLAB
+```
+
 ### Code for Fig.18
 ```
 python Main.py
 ```
+
+
 
 ## Citation
 If you find this repo helpful, please cite our paper.
